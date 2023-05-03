@@ -1,0 +1,43 @@
+body {
+    background-color: #5f782e;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: lightskyblue;
+    font-size: 50px;
+}
+
+img {
+    border: 1px solid blue;
+    border-radius: auto 2px;
+}
+
+ p {
+    font-size: x-large;
+    font-style: italic;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+button {
+    border: 2px solid blue;
+    padding: 1rem;
+    border-radius: 18px;
+    background-color: blue;
+    color: whitesmoke;
+    margin-left: 20px;
+
+}
+
+ button:hover {
+    background-color: lightskyblue;
+    color: brown;
+}
+
+#result {
+    margin-top: 20px;
+    margin-left: 2rem;
+}
